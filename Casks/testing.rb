@@ -1,7 +1,7 @@
 cask "testing" do
 
-  version "0.1"
-  sha256 "97de86279a93d519acc8dabbdd2c9aadb6682bbd7533a4edb5ef6ca4cdaa9125"
+  version "0.2"
+  sha256 "123486279a93d519acc8dabbdd2c9aadb6682bbd7533a4edb5ef6ca4cdaa9125"
 
   url "https://github.com/satrik/testing/releases/download/#{version}/testing.dmg"
   name "testing"
