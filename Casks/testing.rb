@@ -9,7 +9,7 @@ cask "testing" do
 
   depends_on macos: ">= :mojave"
 
-  app "testing.app"
-  
+  app "toggleMute.app"
+
 end
 
