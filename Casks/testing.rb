@@ -1,7 +1,7 @@
 cask "testing" do
 
-  version "1.5"
-  sha256 "d43e85599d5f3b9213dffdc4be831f09867754c4f3a51b7f94042bd9a41fbef2"
+  version "1.6"
+  sha256 "ba9afa4f1fdaceefac895b0aa21e56b48f70a1a72043b873664863fcd02acb0f"
 
   url "https://github.com/satrik/testing/releases/download/#{version}/toggleMute.dmg"
   name "testing"
